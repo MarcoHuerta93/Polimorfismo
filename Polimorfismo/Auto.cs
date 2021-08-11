@@ -24,5 +24,10 @@ namespace Polimorfismo
             Console.WriteLine("HP: {0} - Color: {1}", HP,Color);
         }
 
+        public void Reparar()
+        {
+            Console.WriteLine("El auto ya se está reparando");
+        }
+
     }
 }
