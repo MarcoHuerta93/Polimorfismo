@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5F517DCA-4AA7-4040-9101-B9B196489AE9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polimorfismo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Polimorfismo/Auto.cs">
+    <Files>
+      <File FileName="Polimorfismo/Program.cs" Line="9" Column="12" />
+      <File FileName="Polimorfismo/Auto.cs" Line="24" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polimorfismo" expanded="True">
+            <Node name="Polimorfismo" expanded="True">
+              <Node name="Auto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
